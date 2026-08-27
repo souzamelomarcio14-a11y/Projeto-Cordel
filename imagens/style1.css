@@ -26,3 +26,21 @@ header > p > a {
 header a:hover {
     text-decoration: 1px underline;
 }
+
+main {
+    
+}
+
+main .cor{
+    padding: 50px 0px 50px 0px;
+    max-width: 100vh;
+    font-size: 35px;
+
+}
+
+main .img {
+    background-image: url(background001.jpg);
+    width: 100%;
+    background-position: center right;
+    height: 70vh;
+}
